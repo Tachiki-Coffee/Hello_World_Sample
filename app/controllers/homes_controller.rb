@@ -1,5 +1,5 @@
 class HomesController < ApplicationController
   def index
-    @greet = "Hello World!!!!"
+    @greet = "Hello World!!"
   end
 end
